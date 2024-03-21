@@ -3,7 +3,7 @@ import React from 'react'
 const IdPage = () => {
   return (
     <div>
-       id 
+       id page 
     </div>
   )
 }
