@@ -9,7 +9,7 @@ const MarketingLayout = ({
     <div className='h-full bg-slate-100 '>
         {/* navbar */}
         <main className='pt-40 pb-20 bg-slate-100'>
-        {children}
+        {children} 
         </main>
         {/* footer */}
       
